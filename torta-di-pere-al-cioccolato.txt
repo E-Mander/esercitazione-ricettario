@@ -1,5 +1,10 @@
-Torta di pere al cioccolato
+<<<<<<< HEAD
+Torta di pere al cioccolato modificato da Emanuele Mander
 
+=======
+Torta di pere al cioccolato
+Emander
+>>>>>>> 3c1e33d750b872be2d013cfab51b93d3412976ef
 
 Ingredienti:
 
